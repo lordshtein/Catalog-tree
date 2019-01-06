@@ -10,7 +10,7 @@
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "bin": {
-    "catalogTree": "./bin/global.js"
+    "cat3": "./bin/global.js"
   },
   "husky": {
     "hooks": {
