@@ -1,6 +1,6 @@
 {
   "name": "cat3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print catalog tree in termilan to defined level",
   "main": "index.js",
   "directories": {
